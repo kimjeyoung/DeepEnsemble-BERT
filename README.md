@@ -1,4 +1,4 @@
-# DeepEnsemble-BERT
+# :fire: DeepEnsemble-BERT :fire:
 Implementation of the paper : Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles 
 
 The codes are based on [huggingface](https://huggingface.co/).
