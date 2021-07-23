@@ -20,7 +20,7 @@ Download CLINC OOS intent detection benchmark dataset from [tensorflow-dataset](
 The downloaded files' directory should be:
 
 ```bash
-SNGP-BERT
+DeepEnsemble-BERT
 ㄴckpt
   ㄴbert-base-uncased-pytorch_model.bin
 ㄴdataset
